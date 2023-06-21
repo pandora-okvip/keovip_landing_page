@@ -13,17 +13,17 @@ export default function Home() {
       <div className={styles.container}>
         <div className={styles.wrapper}>
           <div className={styles.logo}>
-            <Image src={logo} width={370} height={130} alt="OKVip" />
+            <Image src={logo} width={350} height={120} alt="OKVip" />
           </div>
           <div className={styles.imgContainer}>
-            <Image src={cauthu} width={895} height={570} />
+            <Image src={cauthu} width={865} height={540} />
           </div>
           <div className={styles.sologain}>
             <Image
               className={styles.sologain}
               src={sologain}
-              width={1100}
-              height={295}
+              width={1000}
+              height={265}
             />
           </div>
           <div className={styles.btnthamgiangay}>
